@@ -6,3 +6,16 @@ https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b
 分支工作完成了，可以使用命令来回在分支之间切换： $ git checkout master，$ git checkout dev
 合并分支：$ git merge dev
 删除分支： $ git branch -d dev
+
+上述这些操作结果是把本地的dev分支和master合并，所以在远程的dev分支和master上是看不到更新的文件的。
+因此合并后，还需要本地master更新的文件上传到远程master上。需要输入命令git push -u origin master
+
+
+create a new repository on the command line
+
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:zhangxueting0152/test.git
+git push -u origin master
