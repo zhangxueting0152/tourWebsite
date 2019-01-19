@@ -1,0 +1,8 @@
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
+创建dev分支，然后切换到dev分支：$ git checkout -b dev
+上步操作相当于两条命令：$ git branch dev，$ git checkout dev
+用git branch命令查看当前分支：$ git branch
+在分支上做正常的修改提交： $ git add readme.txt ，$ git commit -m "branch test"
+分支工作完成了，可以使用命令来回在分支之间切换： $ git checkout master，$ git checkout dev
+合并分支：$ git merge dev
+删除分支： $ git branch -d dev
