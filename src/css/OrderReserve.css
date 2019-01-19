@@ -1,0 +1,44 @@
+.example-input .ant-input {
+    width: 200px;
+    margin: 0 8px 8px 0;
+}
+.reserve li {
+    margin-left: 20px;
+    display: inline-block;
+}
+.reserve li:first-child {
+    margin-left: 20px;
+    display: inline-block;
+    margin-left: 0;
+}
+.reserve ul {
+    margin: 5px 0px;
+}
+.reserve li.active {
+    background-color: #458B00;
+    border-radius: 4px;
+    color: #fff;
+    padding: 0 5px;
+    text-align: center;
+}
+.reserve .reserveInfo {
+    width: 300px;
+    display: inline-block;
+    margin-top: 10px;
+}
+.reserve {
+    position: relative;
+}
+.reserve .submit {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 4px;
+    background-color: #f60;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 30px;
+}

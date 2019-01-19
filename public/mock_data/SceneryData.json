@@ -1,0 +1,44 @@
+{
+    "SceneryList": [
+      {
+        "src": "../imgs/s1.jpg",
+        "alt": "曼谷-芭提雅",
+        "caption": "曼谷-芭提雅[共8 张]"
+      },
+      {
+        "src": "../imgs/s2.jpg",
+        "alt": "马尔代夫双鱼岛",
+        "caption": "马尔代夫双鱼岛[共12 张]<"
+      },
+      {
+        "src": "../imgs/s3.jpg",
+        "alt": "海南",
+        "caption": "海南[共19 张]"
+      },
+      {
+        "src": "../imgs/s4.jpg",
+        "alt": "富山-大阪-东京",
+        "caption": "富山-大阪-东京[共22 张]"
+      },
+      {
+        "src": "../imgs/s5.jpg",
+        "alt": "法瑞意德",
+        "caption": "法瑞意德[共31 张]"
+      },
+      {
+        "src": "../imgs/s6.jpg",
+        "alt": "巴厘岛",
+        "caption": "巴厘岛[共12 张]"
+      },
+      {
+        "src": "../imgs/s7.jpg",
+        "alt": "塞舌尔迪拜",
+        "caption": "塞舌尔迪拜[共7 张]"
+      },
+      {
+        "src": "../imgs/s8.jpg",
+        "alt": "花样姐姐土耳其",
+        "caption": "花样姐姐土耳其[共14 张]"
+      }
+    ]
+}

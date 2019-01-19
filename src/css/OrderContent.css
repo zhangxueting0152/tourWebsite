@@ -1,0 +1,13 @@
+.content {
+    color: #666;
+    margin: 0 auto;
+    width: 1000px;
+}
+.orderh2 {
+    height: 40px;
+    font-size: 30px;
+    font-weight: normal;
+    border-bottom: 1px dashed #999;
+    padding: 10px 0 55px 0;
+    margin-bottom: 30px;
+}
