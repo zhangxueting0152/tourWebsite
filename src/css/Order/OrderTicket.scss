@@ -1,0 +1,21 @@
+.ticket {
+    ul {
+        margin: 5px 0px;
+    }
+    li {
+        margin-left: 20px;
+        display: inline-block;
+        &:first-child {
+            margin-left: 20px;
+            display: inline-block;
+            margin-left: 0;
+        }
+        &.active {
+            background-color: #458B00;
+            border-radius: 4px;
+            color: #fff;
+            padding: 0 5px;
+            text-align: center;
+        }
+    }
+}

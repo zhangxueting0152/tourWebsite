@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Menu } from 'antd';
 import { Link } from 'react-router';
-import '../css/Nav.css';
+import '../css/Nav.scss';
 
 
 class Nav extends Component {

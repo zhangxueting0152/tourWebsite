@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Nav from './Nav';
 import MyFooter from './Footer';
 import Side from './Side';
-import '../css/Introduction.css';
+import '../css/Introduction.scss';
 import { Layout } from 'antd';
 
 const { Header, Footer, Content } = Layout;

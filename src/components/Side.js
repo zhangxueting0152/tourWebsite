@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import InfoRecommend from './InfoRecommend';
+import InfoRecommend from './Info/InfoRecommend';
 import InfoTour from './InfoTour';
-import InfoTool from  './InfoTool';
-import '../css/Information.css';
-import '../css/Side.css';
+import InfoTool from './InfoTool';
+import '../css/Info/Information.scss';
+import '../css/Side.scss';
 import axios from 'axios';
 
 class Side extends Component {

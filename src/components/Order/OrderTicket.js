@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Table, Divider, Tag } from 'antd';
-import '../css/OrderTicket.css';
+import '../../css/Order/OrderTicket.scss';
 import axios from 'axios';
 const columns = [{
 	title: '路线',

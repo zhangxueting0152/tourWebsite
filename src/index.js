@@ -3,9 +3,9 @@ import ReactDOM from 'react-dom';
 import Home from './components/Home';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import Information from "./components/Information";
-import Order from "./components/Order";
-import Scenery from "./components/Scenery";
+import Information from "./components/Info/Information";
+import Order from "./components/Order/Order";
+import Scenery from "./components/Scenery/Scenery";
 import Introduction from "./components/Introduction";
 
 import { Router, Route, hashHistory  } from 'react-router';

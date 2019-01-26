@@ -1,0 +1,5 @@
+@mixin myInfoCommon($width, $display, $margin) {
+  width: $width;
+  display: $display;
+  margin: $margin;
+}

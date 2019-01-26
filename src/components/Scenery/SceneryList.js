@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../css/SceneryList.css';
+import '../../css/Scenery/SceneryList.scss';
 
 
 class SceneryList extends Component {

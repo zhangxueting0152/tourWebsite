@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../css/InfoTour.css';
+import '../css/InfoTour.scss';
 
 class InfoTour extends Component {
 	constructor(props) {

@@ -1,5 +1,5 @@
 import  React,{ Component } from 'react';
-import '../css/IndexTravelCard.css'
+import '../../css/Info/IndexTravelCard.scss'
 
 export default class IndexTravelCard extends Component {
 	constructor(props) {

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../css/InfoRecommend.css';
+import '../../css/Info/InfoRecommend.scss';
 
 class InfoList extends Component {
 	constructor(props) {

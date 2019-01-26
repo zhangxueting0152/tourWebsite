@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Side from './Side';
-import OrderReserve from '../components/OrderReserve';
-import OrderTicket from '../components/OrderTicket';
-import '../css/OrderContent.css';
+import Side from '../Side';
+import OrderReserve from './OrderReserve';
+import OrderTicket from './OrderTicket';
+import '../../css/Order/OrderContent.scss';
 
 class OrderContent extends Component {
 	constructor(props) {

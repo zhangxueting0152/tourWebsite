@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
-import Nav from './Nav';
-import MyFooter from './Footer';
-import Side from './Side';
-import SceneryList from '../components/SceneryList';
-import '../css/Order.css';
+import Nav from '../Nav';
+import MyFooter from '../Footer';
+import Side from '../Side';
+import SceneryList from './SceneryList';
 import { Layout } from 'antd';
 import axios from 'axios';
 const { Header, Footer, Content } = Layout;

@@ -37,8 +37,8 @@
     width: 100px;
     height: 35px;
     margin: 0 0;
-}
-.myA:hover {
-    background-color: #458b00;
-    color: #fff;
+   &:hover {
+     background-color: #458b00;
+     color: #fff;
+   }
 }

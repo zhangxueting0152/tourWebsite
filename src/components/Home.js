@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Nav from './Nav';
-import SearchArea from './SearchArea';
-import IndexTravelCard from './IndexTravelCard';
+import SearchArea from './Scenery/SearchArea';
+import IndexTravelCard from './Info/IndexTravelCard';
 import MyFooter from './Footer';
 import { Layout } from 'antd';
 import axios from 'axios';

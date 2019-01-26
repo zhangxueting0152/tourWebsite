@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+.introduction {
+    li {
+        list-style: none;
+    }
+    p {
+        font-size: 20px;
+        color: #666;
+        line-height: 2;
+        margin: 20px 0;
+    }
+    h2 {
+        font-size: 28px;
+        border-bottom: 1px dashed #eee;
+        padding-bottom: 15px;
+    }
+    address {
+        font-style: normal;
+        font-size: 20px;
+        color: #666;
+        margin: 20px 0;
+        line-height: 1.6;
+    }
+}

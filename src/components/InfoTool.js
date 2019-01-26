@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../css/InfoTool.css';
+import '../css/InfoTool.scss';
 
 class InfoTour extends Component {
 	constructor(props) {

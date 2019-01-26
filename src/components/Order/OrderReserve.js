@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Input, DatePicker  } from 'antd';
-import '../css/OrderReserve.css';
-import OrderTicket from '../components/OrderTicket';
+import '../../css/Order/OrderReserve.scss';
+import OrderTicket from './OrderTicket';
 class OrderReserve extends Component {
 	constructor(props) {
 		super(props);

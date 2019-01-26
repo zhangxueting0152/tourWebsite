@@ -1,0 +1,9 @@
+@import "./myInfoCommon";
+
+.box a {
+    @include myInfoCommon(150px, inline-block, 2px);
+    height: 40px;
+    line-height: 40px;
+    color: #999;
+    background-color: #eee;
+}

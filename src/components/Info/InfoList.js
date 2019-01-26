@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Side from './Side';
-import '../css/InfoList.css';
+import Side from '../Side';
+import '../../css/Info/InfoList.scss';
 
 class InfoList extends Component {
 	constructor(props) {

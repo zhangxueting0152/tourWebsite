@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import Nav from './Nav';
-import MyFooter from './Footer';
-import Side from './Side';
-import InfoList from '../components/InfoList';
-import '../css/Information.css';
+import Nav from '../Nav';
+import MyFooter from '../Footer';
+import Side from '../Side';
+import InfoList from './InfoList';
+import '../../css/Info/Information.scss';
 import { Layout } from 'antd';
 import axios from 'axios';
 

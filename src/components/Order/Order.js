@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
-import Nav from './Nav';
-import MyFooter from './Footer';
+import Nav from '../Nav';
+import MyFooter from '../Footer';
 import OrderContent from './OrderContent';
-import '../css/Order.css';
 import { Layout } from 'antd';
 
 const { Header, Footer, Content } = Layout;

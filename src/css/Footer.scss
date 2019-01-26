@@ -1,0 +1,47 @@
+$min-width:1263px;
+footer,h2,ul{
+    margin: 0;
+    padding: 0;
+}
+footer {
+    min-width: $min-width;
+    height: 360px;
+    background-color: #222;
+    .description {
+        width: $min-width;
+        height: 280px;
+        margin: 0 auto;
+        text-align: center;
+        .item {
+            width: 410px;
+            height: 320px;
+            display: inline-block;
+            color: #ccc;
+            vertical-align: top;
+            text-align: left;
+        }
+    }
+    .copyright {
+        min-width: $min-width;
+        height: 80px;
+        margin: 0 auto;
+        text-align: center;
+        background-color: #000;
+        color: #777;
+        line-height: 80px;
+        border-top: 1px solid #444;
+    }
+    h2 {
+        font-weight: normal;
+        font-size: 24px;
+        padding: 20px 0 0 20px;
+        color: #ccc;
+    }
+    ul {
+        color: #666;
+        font-size: 18px;
+        text-indent: 20px;
+        list-style: none;
+        line-height: 2em;
+    }
+}
