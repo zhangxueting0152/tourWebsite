@@ -86,3 +86,6 @@ gulp.task('minifyImg',function(){
 		.pipe(imagemin({progressive:true}))
 		.pipe(gulp.dest('dist/imgs'));
 });
+gulp.task('watch', function () {
+	gulp.watch(['./dist/**']);
+});
