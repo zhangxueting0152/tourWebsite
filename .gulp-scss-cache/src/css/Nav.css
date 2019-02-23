@@ -1,0 +1,31 @@
+@import url(../../node_modules/antd/dist/antd.css);
+.ant-layout-header {
+  width: 100%;
+  background: #333;
+  min-width: 1263px; }
+
+.nav .center {
+  width: 1263px;
+  margin: 0 auto; }
+
+.logo {
+  width: 240px;
+  height: 62px;
+  float: left;
+  background-image: url(../imgs/logo.png);
+  text-indent: -9999px; }
+
+.ant-menu {
+  float: right; }
+
+.ant-menu-item {
+  width: 120px;
+  font-size: 18px;
+  line-height: 62px;
+  color: #eee;
+  background: #333; }
+
+.ant-menu-item-active, .ant-menu-item-selected {
+  background: #545151; }
+
+/*# sourceMappingURL=Nav.css.map */

@@ -1,0 +1,497 @@
+/*  imported from Introduction.scss  */
+@import url(../../node_modules/antd/dist/antd.css);
+@import url(../../node_modules/antd/dist/antd.css);
+@import url(../../../node_modules/antd/dist/antd.css);
+.Introduction__introduction___2kBPR li {
+  list-style: none; }
+
+.Introduction__introduction___2kBPR p {
+  font-size: 20px;
+  color: #666;
+  line-height: 2;
+  margin: 20px 0; }
+
+.Introduction__introduction___2kBPR h2 {
+  font-size: 28px;
+  border-bottom: 1px dashed #eee;
+  padding-bottom: 15px; }
+
+.Introduction__introduction___2kBPR address {
+  font-style: normal;
+  font-size: 20px;
+  color: #666;
+  margin: 20px 0;
+  line-height: 1.6; }
+
+/*  imported from Information.scss  */
+.Information__point___20Y_g {
+  width: 100%;
+  min-width: 1263px;
+  height: 300px;
+  background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(../../imgs/headline.jpg) no-repeat center;
+  position: relative; }
+
+.Information__point___20Y_g h2 {
+  color: #eee;
+  font-size: 36px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 30%;
+  left: 30%; }
+
+.Information__point___20Y_g h3 {
+  color: #eee;
+  font-size: 20px;
+  letter-spacing: 1px;
+  position: absolute;
+  top: 60%;
+  left: 30%; }
+
+/*  imported from Nav.scss  */
+.Nav__ant-layout-header___1mabb {
+  width: 100%;
+  background: #333;
+  min-width: 1263px; }
+
+.Nav__nav___3fuYL .Nav__center___Y-R3G {
+  width: 1263px;
+  margin: 0 auto; }
+
+.Nav__logo___3dBXX {
+  width: 240px;
+  height: 62px;
+  float: left;
+  background-image: url(../imgs/logo.png);
+  text-indent: -9999px; }
+
+.Nav__ant-menu___242YW {
+  float: right; }
+
+.Nav__ant-menu-item___pJYzQ {
+  width: 120px;
+  font-size: 18px;
+  line-height: 62px;
+  color: #eee;
+  background: #333; }
+
+.Nav__ant-menu-item-active___2k_Ls, .Nav__ant-menu-item-selected___1lOqG {
+  background: #545151; }
+
+/*  imported from Footer.scss  */
+footer, h2, ul {
+  margin: 0;
+  padding: 0; }
+
+footer {
+  min-width: 1263px;
+  height: 360px;
+  background-color: #222; }
+
+footer .Footer__description___3mwmV {
+  width: 1263px;
+  height: 280px;
+  margin: 0 auto;
+  text-align: center; }
+
+footer .Footer__description___3mwmV .Footer__item___3cfcR {
+  width: 410px;
+  height: 320px;
+  display: inline-block;
+  color: #ccc;
+  vertical-align: top;
+  text-align: left; }
+
+footer .Footer__copyright___3WIdA {
+  min-width: 1263px;
+  height: 80px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #000;
+  color: #777;
+  line-height: 80px;
+  border-top: 1px solid #444; }
+
+footer h2 {
+  font-weight: normal;
+  font-size: 24px;
+  padding: 20px 0 0 20px;
+  color: #ccc; }
+
+footer ul {
+  color: #666;
+  font-size: 18px;
+  text-indent: 20px;
+  list-style: none;
+  line-height: 2em; }
+
+/*  imported from Search.scss  */
+.Search__search___2C18W {
+  width: 100%;
+  height: 600px;
+  min-width: 1263px;
+  background-image: url(../imgs/search.jpg);
+  position: relative; }
+
+.Search__ant-input-search___3CwDV {
+  width: 600px;
+  height: 60px;
+  top: 50%;
+  left: 50%;
+  background: #000;
+  position: absolute;
+  margin: -30px 0 0 -300px;
+  border-radius: 10px; }
+
+/*  imported from IndexTravelCard.scss  */
+.IndexTravelCard__figGroup___22w2i {
+  width: 380px;
+  height: 300px;
+  border: 1px solid #ddd;
+  padding: 1px;
+  margin: 5px 10px;
+  position: relative;
+  display: inline-block; }
+
+.IndexTravelCard__figGroup___22w2i .IndexTravelCard__category___2X6nD {
+  width: 90px;
+  height: 25px;
+  color: #fff;
+  font-size: 18px;
+  float: left;
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  background-color: #59b200;
+  border-bottom-right-radius: 4px; }
+
+.IndexTravelCard__figTitle___1rken {
+  color: #333;
+  font-weight: normal; }
+
+figure .IndexTravelCard__price___1aFy8 {
+  color: #f60;
+  font-size: 14px;
+  float: left; }
+
+figure .IndexTravelCard__satis___16Mhb {
+  color: #999;
+  font-size: 13px;
+  float: right; }
+
+/*  imported from Side.scss  */
+.Side__side___-XeuR {
+  width: 320px;
+  float: right; }
+
+.Side__side___-XeuR .Side__block___Gwt1P {
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 0 0 10px 0; }
+
+/*  imported from OrderContent.scss  */
+.OrderContent__content___2apnU {
+  color: #666;
+  margin: 0 auto;
+  width: 1000px; }
+
+.OrderContent__orderh2___3LGBK {
+  height: 40px;
+  font-size: 30px;
+  font-weight: normal;
+  border-bottom: 1px dashed #999;
+  padding: 10px 0 55px 0;
+  margin-bottom: 30px; }
+
+/*  imported from SceneryList.scss  */
+.SceneryList__sceneryList___2mU_G {
+  float: left;
+  width: 880px; }
+
+.SceneryList__sceneryList___2mU_G figure {
+  width: 435px;
+  border: 1px solid #ddd;
+  display: inline-block;
+  margin: 15px 5px 15px 0;
+  text-align: center;
+  padding: 2px;
+  border-radius: 4px; }
+
+.SceneryList__sceneryList___2mU_G figcaption {
+  font-size: 20px;
+  color: #666; }
+
+.SceneryList__sceneryList___2mU_G .SceneryList__more___2Qfaf {
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 5px; }
+
+/*  imported from InfoList.scss  */
+.InfoList__content___ULV9s {
+  width: 1263px;
+  margin: 30px auto;
+  padding: 0 5px; }
+
+.InfoList__bar___1ThdH {
+  height: 45px;
+  background-color: #eee;
+  line-height: 45px; }
+
+.InfoList__bar___1ThdH li {
+  width: 150px;
+  height: 45px;
+  display: inline-block;
+  list-style: none;
+  text-align: center;
+  font-size: 18px; }
+
+.InfoList__bar___1ThdH a {
+  text-decoration: none;
+  color: #666; }
+
+.InfoList__bar___1ThdH .InfoList__right___1f1II a:hover {
+  padding: 0 2px;
+  background-color: #458B00;
+  color: #fff; }
+
+.InfoList__list___2_rET {
+  width: 900px;
+  float: left; }
+
+.InfoList__detail___1ZOCh figure {
+  height: 230px;
+  border: 1px solid #eee;
+  position: relative; }
+
+.InfoList__detail___1ZOCh figure img {
+  float: left; }
+
+.InfoList__detail___1ZOCh figure figcaption {
+  width: 438px;
+  height: 230px;
+  float: right;
+  margin-left: 0; }
+
+.InfoList__detail___1ZOCh header {
+  width: 300px;
+  font-size: 24px;
+  margin-top: 2px;
+  font-weight: normal;
+  color: #333;
+  margin-left: 25px; }
+
+.InfoList__detail___1ZOCh section .InfoList__type___oi7mP {
+  width: 90px;
+  height: 25px;
+  line-height: 25px;
+  text-align: center;
+  border-bottom-right-radius: 4px;
+  background-color: #59b200;
+  font-size: 14px;
+  color: #fff;
+  top: 0;
+  left: 0;
+  position: absolute; }
+
+.InfoList__detail___1ZOCh section .InfoList__explain___2QRDO {
+  width: 250px;
+  font-size: 16px;
+  padding: 10px 0 10px 25px;
+  line-height: 1.5;
+  font-weight: normal;
+  color: #666;
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical; }
+
+.InfoList__detail___1ZOCh section ol {
+  color: #666;
+  line-height: 2;
+  list-style: none;
+  padding: 0 0 0 25px; }
+
+.InfoList__detail___1ZOCh section ol mark {
+  color: #458B00;
+  border: 1px solid #458B00;
+  background-color: #fff;
+  padding: 0px 5px;
+  border-radius: 4px; }
+
+.InfoList__detail___1ZOCh section .InfoList__buy___15Dek {
+  position: absolute;
+  top: 55px;
+  right: 5px; }
+
+.InfoList__detail___1ZOCh section .InfoList__buy___15Dek .InfoList__price___2WC4C {
+  font-size: 20px;
+  color: #f60;
+  float: none; }
+
+.InfoList__detail___1ZOCh section .InfoList__buy___15Dek .InfoList__price___2WC4C s {
+  font-size: 16px;
+  color: #999; }
+
+.InfoList__detail___1ZOCh section .InfoList__buy___15Dek button {
+  width: 152px;
+  height: 40px;
+  font-size: 20px;
+  background-color: #f60;
+  color: #fff;
+  border: none;
+  cursor: pointer; }
+
+.InfoList__detail___1ZOCh section .InfoList__sale___2JrDr {
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-image: url(../../imgs/disc.png);
+  font-size: 15px; }
+
+.InfoList__detail___1ZOCh section .InfoList__sale___2JrDr span {
+  width: 52px;
+  height: 52px;
+  font-size: 12px;
+  color: #ff7a4d;
+  transform: rotate(45deg);
+  display: block;
+  text-indent: 9px; }
+
+.InfoList__detail___1ZOCh article .InfoList__bottom___1sr5D {
+  width: 438px;
+  height: 35px;
+  background-color: #fafafa;
+  text-indent: 25px;
+  line-height: 35px;
+  font-size: 15px; }
+
+/*  imported from InfoTour.scss  */
+.InfoTour__tour___Zttz0 {
+  width: 150px;
+  display: inline-block;
+  margin: 1px 2px; }
+
+/*  imported from InfoTool.scss  */
+.InfoTool__box___3Bw57 a {
+  width: 150px;
+  display: inline-block;
+  margin: 2px;
+  height: 40px;
+  line-height: 40px;
+  color: #999;
+  background-color: #eee; }
+
+/*  imported from InfoRecommend.scss  */
+.InfoRecommend__side___3jcth .InfoRecommend__block___YyVzH {
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 0 0 10px 0; }
+
+.InfoRecommend__side___3jcth h2 {
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  height: 40px;
+  line-height: 40px;
+  text-indent: 10px;
+  background-color: #fafafa;
+  color: #666;
+  text-align: left; }
+
+.InfoRecommend__location___2VIGx {
+  padding: 10px 0;
+  background-color: #fff; }
+
+.InfoRecommend__myLi___2J7AJ {
+  display: inline-block;
+  width: 96px;
+  height: 35px;
+  background-color: #eee;
+  text-align: left;
+  text-indent: 8px;
+  margin: 2px 2px;
+  line-height: 35px;
+  list-style: none;
+  padding: 0 0; }
+
+.InfoRecommend__myA___3klF5 {
+  display: block;
+  color: #999;
+  text-decoration: none;
+  width: 100px;
+  height: 35px;
+  margin: 0 0; }
+
+.InfoRecommend__myA___3klF5:hover {
+  background-color: #458b00;
+  color: #fff; }
+
+/*  imported from OrderReserve.scss  */
+.OrderReserve__example-input___33lVB .OrderReserve__ant-input___11eoa {
+  width: 200px;
+  margin: 0 8px 8px 0; }
+
+.OrderReserve__reserve___1hfx4 {
+  position: relative; }
+
+.OrderReserve__reserve___1hfx4 .OrderReserve__submit___1r1LC {
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 4px;
+  background-color: #f60;
+  color: #fff;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  top: 30px; }
+
+.OrderReserve__reserve___1hfx4 .OrderReserve__reserveInfo___1oz4M {
+  width: 300px;
+  display: inline-block;
+  margin-top: 10px; }
+
+.OrderReserve__reserve___1hfx4 ul {
+  margin: 5px 0px; }
+
+.OrderReserve__reserve___1hfx4 li {
+  margin-left: 20px;
+  display: inline-block; }
+
+.OrderReserve__reserve___1hfx4 li:first-child {
+  margin-left: 20px;
+  display: inline-block;
+  margin-left: 0; }
+
+.OrderReserve__reserve___1hfx4 li.OrderReserve__active___aXvo7 {
+  background-color: #458B00;
+  border-radius: 4px;
+  color: #fff;
+  padding: 0 5px;
+  text-align: center; }
+
+/*  imported from OrderTicket.scss  */
+.OrderTicket__ticket___PMQhl ul {
+  margin: 5px 0px; }
+
+.OrderTicket__ticket___PMQhl li {
+  margin-left: 20px;
+  display: inline-block; }
+
+.OrderTicket__ticket___PMQhl li:first-child {
+  margin-left: 20px;
+  display: inline-block;
+  margin-left: 0; }
+
+.OrderTicket__ticket___PMQhl li.OrderTicket__active___3kpAS {
+  background-color: #458B00;
+  border-radius: 4px;
+  color: #fff;
+  padding: 0 5px;
+  text-align: center; }
+
+/*# sourceMappingURL=bundle.css.map */

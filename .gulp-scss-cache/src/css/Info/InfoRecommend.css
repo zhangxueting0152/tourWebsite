@@ -1,0 +1,44 @@
+.side .block {
+  border: 1px solid #eee;
+  text-align: center;
+  margin: 0 0 10px 0; }
+
+.side h2 {
+  font-size: 20px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  height: 40px;
+  line-height: 40px;
+  text-indent: 10px;
+  background-color: #fafafa;
+  color: #666;
+  text-align: left; }
+
+.location {
+  padding: 10px 0;
+  background-color: #fff; }
+
+.myLi {
+  display: inline-block;
+  width: 96px;
+  height: 35px;
+  background-color: #eee;
+  text-align: left;
+  text-indent: 8px;
+  margin: 2px 2px;
+  line-height: 35px;
+  list-style: none;
+  padding: 0 0; }
+
+.myA {
+  display: block;
+  color: #999;
+  text-decoration: none;
+  width: 100px;
+  height: 35px;
+  margin: 0 0; }
+  .myA:hover {
+    background-color: #458b00;
+    color: #fff; }
+
+/*# sourceMappingURL=InfoRecommend.css.map */

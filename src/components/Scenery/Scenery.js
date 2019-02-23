@@ -15,7 +15,7 @@ class Scenery extends Component {
 		}
 	}
 	componentDidMount = () => {
-		axios.get('../mock_data/SceneryData.json')
+		axios.get('/tour-website/dist/mock_data/SceneryData.json')
 			.then(res => {
 				this.setState(
 					{

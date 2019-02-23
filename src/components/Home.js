@@ -3,8 +3,9 @@ import Nav from './Nav';
 import SearchArea from './Scenery/SearchArea';
 import IndexTravelCard from './Info/IndexTravelCard';
 import MyFooter from './Footer';
-import { Layout } from 'antd';
+import { Layout,Button } from 'antd';
 import axios from 'axios';
+import "antd/dist/antd.css";
 
 const { Header, Footer, Content } = Layout;
 
@@ -18,7 +19,7 @@ class Home extends Component {
 
 	componentDidMount() {
 		const _this=this;
-		axios.get('../mock_data/HomeData.json')
+		axios.get('mock_data/HomeData.json')
 			.then(function (res) {
 				_this.setState({
 					data: res.data.body.HomeData,
@@ -45,7 +46,7 @@ class Home extends Component {
 						<IndexTravelCard  value={this.state.data}/>
 					</Content>
 					<Footer style={{padding:"0"}}>
-						<MyFooter ></MyFooter>
+						<MyFooter/>
 					</Footer>
 				</Layout>
 			</div>

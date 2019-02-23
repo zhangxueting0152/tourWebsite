@@ -1,4 +1,4 @@
-@import '../../node_modules/antd/dist/antd.css';
+//@import '../../node_modules/antd/dist/antd.css';
 $min-width:1263px;
 $height:62px;
 .ant-layout-header {
@@ -14,7 +14,7 @@ $height:62px;
   width: 240px;
   height: $height;
   float: left;
-  background-image: url(../imgs/logo.png);
+  background-image: url(/tour-website/public/imgs/logo.png);
   text-indent: -9999px;
 }
 .ant-menu {

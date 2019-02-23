@@ -9,42 +9,42 @@
   ],
   "tour": [
     {
-      "src": "../imgs/hot1.jpg",
+      "src": "../dist/imgs/hot1.jpg",
       "alt": "曼谷-芭提雅6 日游",
       "caption": "曼谷-芭提雅6 日游"
     },
     {
-      "src": "../imgs/hot2.jpg",
+      "src": "../dist/imgs/hot2.jpg",
       "alt": "马尔代夫双鱼6 日游",
       "caption": "马尔代夫双鱼6 日游"
     },
     {
-      "src": "../imgs/hot3.jpg",
+      "src": "../dist/imgs/hot3.jpg",
       "alt": "海南双飞5 日游",
       "caption": "海南双飞5 日游"
     },
     {
-      "src": "../imgs/hot4.jpg",
+      "src": "../dist/imgs/hot4.jpg",
       "alt": "富山大阪东京8 日游",
       "caption": "富山大阪东京8 日游"
     },
     {
-      "src": "../imgs/hot5.jpg",
+      "src": "../dist/imgs/hot5.jpg",
       "alt": "法瑞意德12 日游",
       "caption": "法瑞意德12 日游"
     },
     {
-      "src": "../imgs/hot6.jpg",
+      "src": "../dist/imgs/hot6.jpg",
       "alt": "巴厘岛6 日半游",
       "caption": "巴厘岛6 日半游"
     },
     {
-      "src": "../imgs/hot7.jpg",
+      "src": "../dist/imgs/hot7.jpg",
       "alt": "塞舌尔迪拜9 日游",
       "caption": "塞舌尔迪拜9 日游"
     },
     {
-      "src": "../imgs/hot8.jpg",
+      "src": "../dist/imgs/hot8.jpg",
       "alt": "花样土耳其10 日游",
       "caption": "花样土耳其10 日游"
     }

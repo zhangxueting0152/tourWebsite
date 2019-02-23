@@ -1,13 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Home from './components/Home';
-import './index.css';
+/*import './index.css';*/
 import * as serviceWorker from './serviceWorker';
 import Information from "./components/Info/Information";
 import Order from "./components/Order/Order";
 import Scenery from "./components/Scenery/Scenery";
 import Introduction from "./components/Introduction";
-
 import { Router, Route, hashHistory  } from 'react-router';
 /*npm install react-router@3.x --save 这里写的路由只能用3.x版本的，升级到4.x版本会报错*/
 ReactDOM.render(

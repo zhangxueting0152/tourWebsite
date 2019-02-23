@@ -18,7 +18,7 @@ class Information extends Component {
 	}
 
 	componentDidMount = () => {
-		axios.get('../mock_data/InfoData.json')
+		axios.get('/tour-website/public/mock_data/InfoData.json')
 			.then(res => {
 				console.log(res.data);
 				this.setState(

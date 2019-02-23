@@ -15,7 +15,7 @@ class Side extends Component {
 		}
 	}
 	componentDidMount = () => {
-		axios.get('../mock_data/SideData.json')
+		axios.get('/tour-website/public/mock_data/SideData.json')
 			.then(res => {
 				this.setState(
 					{

@@ -1,0 +1,19 @@
+.introduction li {
+  list-style: none; }
+.introduction p {
+  font-size: 20px;
+  color: #666;
+  line-height: 2;
+  margin: 20px 0; }
+.introduction h2 {
+  font-size: 28px;
+  border-bottom: 1px dashed #eee;
+  padding-bottom: 15px; }
+.introduction address {
+  font-style: normal;
+  font-size: 20px;
+  color: #666;
+  margin: 20px 0;
+  line-height: 1.6; }
+
+/*# sourceMappingURL=Introduction.css.map */

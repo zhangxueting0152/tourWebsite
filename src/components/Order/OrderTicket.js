@@ -46,7 +46,7 @@ export default class OrderTicket extends Component {
 		}
 	}
 	componentDidMount = () => {
-		axios.get('../mock_data/OrderTicketData.json')
+		axios.get('/tour-website/public/mock_data/OrderTicketData.json')
 			.then(res => {
 				this.setState(
 					{
